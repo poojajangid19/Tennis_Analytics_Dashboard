@@ -1,0 +1,23 @@
+.main {
+    background-color: #f5f7fb;
+}
+
+.hero {
+    background: linear-gradient(135deg,#0f172a,#1e3a8a);
+    padding: 25px;
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.metric-card {
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.08);
+}
+
+h1,h2,h3 {
+    color: #0f172a;
+}
